@@ -38,6 +38,13 @@ button {
 button:hover {
   background-color: #a34743;
 }
+.botaoLimpar {
+  background-color: #145;
+}
+.botaoLimpar:hover {
+  background-color: #60041a;
+  transition: 1;
+}
 ul {
   list-style: none;
   padding: 0;
